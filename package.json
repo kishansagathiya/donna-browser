@@ -2,7 +2,7 @@
   "name": "donna-browser",
   "version": "0.1.0",
   "private": true,
-  "description": "Playwright sidecar for Donna chat browse_page tool",
+  "description": "Playwright sidecar for Donna browse_page and interactive agent browser sessions",
   "type": "module",
   "scripts": {
     "start": "node src/server.js",
